@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [https://bynmz.github.com](https://bynmz.github.io/)
 
-📫: bynmwz@gmail.com
+📫 Contact: bynmwz@gmail.com
