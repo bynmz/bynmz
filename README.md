@@ -20,6 +20,7 @@ I'm bynmz. I write CPP for embedded linux, Web and mobile app development, IoT d
 - 🔭 I’m currently working on Smartphone Apps and IoT
 - 🌱 I’m currently learning Kotlin, Go, Kubernetes.
 - 💬 Ask me about anything!
+- 👨‍💻  Read more about my projects in my [portfolio]
 - 📫 How to reach me: [E-mail](mailto:bynmwz@gmail.com) / [Telegram](https://t.me/bynmz)
 - ⚡ Fun fact: I can bend spoons with my mind
 
@@ -45,3 +46,11 @@ I'm bynmz. I write CPP for embedded linux, Web and mobile app development, IoT d
 </div>
 
 
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Offscreen rendering in Vulkan](https://bynmz.github.io/2024/03/28/offscreen-rendering-in-vulkan/)
+- [Simple UI with Dear Imgui](https://bynmz.github.io/2024/02/05/simple-ui-with-dear-imgui/)
+<!-- BLOG-POST-LIST:END -->
+
+[portfolio]: https://bynmz.github.io/
