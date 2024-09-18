@@ -15,8 +15,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bynmz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+I'm bynmz.
 
-[https://bynmz.github.com](https://bynmz.github.io/)
+- 🔭 I’m currently working on Smartphone Apps and IoT
+- 🌱 I’m currently learning Kotlin, Go, Kubernetes.
+- 💬 Ask me about anything!
+- 📫 How to reach me: [e-mail](mailto:bynmwz@gmail.com) / [telegram](https://t.me/bynmz)
+- ⚡ Fun fact: I can bend spoons with my mind
 
-📫 Contact: bynmwz@gmail.com
+<div align="center">
+
+  [![OS:Windows11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com)
+  [![OS:Android13](https://img.shields.io/badge/OS-Android14-green?style=flat-square&logo=android)](https://www.android.com/)
+  [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
+  [![IDE:IDEA](https://img.shields.io/badge/IDE-IDEA-magenta?style=flat-square&logo=IntellijIDEA)](https://www.jetbrains.com/idea/)
+  [![DE:KDE](https://img.shields.io/badge/DE-KDE-blue?style=flat-square&logo=KDE)](https://kde.org)
+
+  [![email](https://img.shields.io/badge/Email-bynmwz@gmail.com-red?style=flat-square&logo=gmail)](mailto:bynmwz@gmail.com)
+  [![telegram](https://img.shields.io/badge/Telegram-bynmz-blue?style=flat-square&logo=telegram)](https://t.me/bynmz)
+  [![Gist.GitHub:bynmz](https://img.shields.io/badge/Gist-bynmz-red?style=flat-square&logo=GitHub)](https://gist.github.com/bynmz)
+  [![Blog](https://img.shields.io/badge/Blog-blue)](https://bynmz.github.io/)
+</div>
+
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bynmz&theme=github" />
+  </a>
+</div>
+
+
