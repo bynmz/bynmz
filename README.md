@@ -15,16 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm bynmz.
+I'm bynmz. I write CPP for embedded linux, Web and mobile app development, IoT data pipelines in Go and orchestrating CI/CD.
 
 - 🔭 I’m currently working on Smartphone Apps and IoT
 - 🌱 I’m currently learning Kotlin, Go, Kubernetes.
 - 💬 Ask me about anything!
-- 📫 How to reach me: [e-mail](mailto:bynmwz@gmail.com) / [telegram](https://t.me/bynmz)
+- 📫 How to reach me: [E-mail](mailto:bynmwz@gmail.com) / [Telegram](https://t.me/bynmz)
 - ⚡ Fun fact: I can bend spoons with my mind
 
 <div align="center">
 
+  [![OS:ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
   [![OS:Windows11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com)
   [![OS:Android13](https://img.shields.io/badge/OS-Android14-green?style=flat-square&logo=android)](https://www.android.com/)
   [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
