@@ -20,7 +20,8 @@ I'm bynmz. I write CPP for embedded linux, Web and mobile app development, IoT d
 - 🔭 I’m currently working on Smartphone Apps and IoT
 - 🌱 I’m currently learning Kotlin, Go, Kubernetes.
 - 💬 Ask me about anything!
-- 👨‍💻  Read more about my projects in my [portfolio]
+- 👨‍💻 Read about things that interest me in my [blog]
+- 🛠️ My [portfolio]
 - 📫 How to reach me: [E-mail](mailto:bynmwz@gmail.com) / [Telegram](https://t.me/bynmz)
 - ⚡ Fun fact: I can bend spoons with my mind
 
@@ -53,4 +54,5 @@ I'm bynmz. I write CPP for embedded linux, Web and mobile app development, IoT d
 - [Simple UI with Dear Imgui](https://bynmz.github.io/2024/02/05/simple-ui-with-dear-imgui/)
 <!-- BLOG-POST-LIST:END -->
 
-[portfolio]: https://bynmz.github.io/
+[portfolio]: https://bynmz.github.io/images/Ben_Young_Mwanzia_portfolio.pdf
+[blog]: https://bynmz.github.io/
