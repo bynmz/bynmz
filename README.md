@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm bynmz. I write CPP for embedded linux, Web and mobile app development, IoT data pipelines in Go and orchestrating CI/CD.
+I'm bynmz. I write CPP for embedded linux, Web and mobile app development, IoT data pipelines in Go and CI/CD orchestration.
 
 - 🔭 I’m currently working on Smartphone Apps and IoT
 - 🌱 I’m currently learning Kotlin, Go, Kubernetes.
